@@ -1,0 +1,5 @@
+CheXpert-v1.0-small/
+test_images/
+best_model.keras
+data/
+.DS_Store
